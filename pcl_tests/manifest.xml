@@ -1,0 +1,23 @@
+<package>
+  <description brief="pcl_tests">
+
+     pcl_tests
+
+  </description>
+  <author>Phillip Grice</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/pcl_tests</url>
+  <depend package="roscpp" />
+  <depend package="pcl" />
+  <depend package="geometry_msgs" />
+  <depend package="sensor_msgs" />
+  <depend package="pcl_ros" />
+  <depend package="cv_bridge" />
+  <depend package="opencv2" />
+  <depend package="image_transport" />
+
+
+</package>
+
+
